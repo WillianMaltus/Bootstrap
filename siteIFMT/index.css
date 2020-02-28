@@ -1,0 +1,62 @@
+.menu {
+	width:100%;
+	height:45px;
+	background-color:#333333;
+	color:white;
+	font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+	font-size:13px;
+}
+
+.menu ul li{
+	display:inline-block;
+	position:relative;
+	top:12px;
+	padding-right:20px;
+	left:150px;
+	
+}
+
+#img1{
+	position: absolute;
+	top: 190px;
+	left: 850px;
+}
+
+#img2{
+	position: absolute;
+	top: 270px;
+	left: 850px;
+}
+
+#img3{
+	position: absolute;
+	top: 350px;
+	left: 850px;
+}
+
+#logo-ifmt{
+	position: relative;
+	left: -720px
+}
+
+#img4{
+	position: absolute;
+	top: 430px;
+	left: 850px;
+}
+
+#menu_ifmt{
+	position: absolute;
+	top: 190px;
+	left: 150px;
+}
+
+#menu{
+	position: absolute;
+	top: 100px;
+	left: 800px;
+}
+
+p{
+	color: black;
+}
